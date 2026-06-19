@@ -13,16 +13,19 @@
 1. Ouvrez **Google Chrome** (ou Safari sur iOS) sur votre téléphone.
 2. Allez sur le lien officiel de l'application : [https://takiz.vercel.app](https://takiz.vercel.app)
    <br>
-   <img src="https://github.com/user-attachments/assets/9e492d91-e28d-4776-82cd-5a8de57b92c7" width="250" alt="Google Chrome">
+   <img src="https://github.com/user-attachments/assets/51ff3009-4df1-4bbd-bd4d-42fea885c618" width="250" alt="Valider">
+   
 3. Ouvrez le menu de votre navigateur (les **3 petits points `⋮`** en haut à droite sur Chrome, ou le bouton de partage central sur Safari).
    <br>
-   <img src="https://github.com/user-attachments/assets/e7f466f5-39f3-4cb5-920f-6f8b5bfd590f" width="250" alt="Menu Chrome">
+   <img src="https://github.com/user-attachments/assets/9e492d91-e28d-4776-82cd-5a8de57b92c7" width="250" alt="Google Chrome">
+   
 4. Faites défiler le menu vers le bas jusqu'à trouver et cliquer sur **"Ajouter à l'écran d'accueil"** (ou "Installer l'application").
    <br>
-   <img src="https://github.com/user-attachments/assets/ccd7cbc1-ad4c-4780-9855-b2db33c289ee" width="250" alt="Ajouter à l'écran d'accueil">
+   <img src="https://github.com/user-attachments/assets/e7f466f5-39f3-4cb5-920f-6f8b5bfd590f" width="250" alt="Menu Chrome">
+   
 5. Validez l'installation. 
    <br>
-   <img src="https://github.com/user-attachments/assets/51ff3009-4df1-4bbd-bd4d-42fea885c618" width="250" alt="Valider">
-Une belle icône Takiz apparaîtra au milieu de vos autres applications !
+   <img src="https://github.com/user-attachments/assets/ccd7cbc1-ad4c-4780-9855-b2db33c289ee" width="250" alt="Ajouter à l'écran d'accueil">
+   
 
 ---
